@@ -15,7 +15,7 @@ more folders, but thoose are not part of LiteFuels mod.
 Engine Overview
 ---------------
 
-[2] Mammoth - (huge 295-315, 4xvector) hydro(..)
+[2] Mammoth - (huge 295-315, 4xvector) hydro(..)? kero(315)
 [2] Rhino - (huge 205-340) kero(335), but real J-2 burn hydrolox
 
 [3] Mainsail - (large 285-310) kero
@@ -25,21 +25,22 @@ Engine Overview
 
 [3] Dart - (aerospike 290-340) meth(300-340)
 
-[f] Vector - (med 295-315) hydro(250-400),meth(295-335)
+[ ] Vector - (med 295-315) hydro(250-400),meth(295-335)
 [3] Thud - (med 275-305) storable
 [3] Terrier - (med 85-345) hydro(410),meth(344)
 [3] Reliant - (med 265-310) (meth,)kero
 [3] Swivel - (med 250-320) kero
 [3] Puff - (med 120-250) storable(300) (+mono?)
 
-[1] Twitch - (small 275-290) storable
+[3] Twitch - (small 275-290) storable
 [3] Spark - (small 265-320) hydro(395),meth(320)
 [3] Verner - (tiny, 140-260) - storable(270-290)
 
-[3] Ant - (tiny 80-315) - storable (+mono?)
-[3] Spider - (tiny 260-290) - storable (+mono?)
+[3] Ant - (tiny 80-315) - storable
+[3] Spider - (tiny 260-290) - storable
 [3] RCS-1 - (tiny, 240) - mono, storable(300)
 [3] RCS-4 - (tiny, 240) - mono, storable(300)
+[3] vernier - (tiny,  ) - mono, storable(290)
 
 [2] All Jet Engines (x, 3000) patch them to Kerosene
 [ ] Methane Jet Engine ?
@@ -56,10 +57,10 @@ f. part already has ModuleEnginesFX
 j. part uses ModuleEngines, but only one mode
 
 Survery of real engines (very approx):
+HydNitro: 270 310
 Kerolox:  300 336
 Methalox: 307 371
 Hydrolox: 333 450
-HydNitro: 270 310
 
 Notes
 -----
